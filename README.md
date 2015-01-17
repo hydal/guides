@@ -5,7 +5,7 @@ Guides for programming like a boss, to the highest standard.
 
 * Protocol
 * Code Review
-* Best Practices
+* [Best Practices](/best-practices)
 * Style
 
 
