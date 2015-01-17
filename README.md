@@ -25,9 +25,17 @@ A note on the language:
 * "Use" is a positive instruction.
 
 
-# Contributing
+Contributing
+------------
 
 Please read the [contributing guidelines](#) before submitting a pull request.
+
+
+
+Credits
+-------
+
+Thank you, [contributors](https://github.com/thoughtbot/guides/graphs/contributors)!
 
 In particular: **if you have commit access, please don't merge changes without
 waiting a week for everybody to leave feedback**.
