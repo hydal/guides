@@ -3,8 +3,8 @@ Best Practices
 
 A guide for programming well.
 
-* [General](/general)
-* [Object-Oriented Design](/object-oriented-design)
+* [General](/best-practices/general)
+* [Object-Oriented Design](/best-practices/object-oriented-design)
 
 
 
