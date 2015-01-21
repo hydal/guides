@@ -6,6 +6,8 @@ when in doubt.
 * Don't duplicate the functionality of a built-in library.
 * Don't swallow exceptions or "fail silently."
 * Don't write code that guesses at future functionality.
+* Use external log files ontop of the console for each app.
+* Prefer each app to have it's own monitoring tools.
 * [Exceptions should be exceptional].
 * [Keep the code simple].
 

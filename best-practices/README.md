@@ -5,22 +5,9 @@ A guide for programming well.
 
 * [General](/best-practices/general)
 * [Object-Oriented Design](/best-practices/object-oriented-design)
+* [Node.JS](/best-practices/nodejs)
 
 
-
-
-
-NodeJS
-------
-
-* Prefer to use modules as a way of dividing up code by functionality.
-* Use `module.exports` to only provide access to methods required.
-* Use the two frameworks [Express.JS] & [Restify] only.
-* Use ES6 over ES5 with [Tracer] to handle coversion.
-
-[Express.JS]: http://expressjs.com/
-[Restify]: http://mcavage.me/node-restify/
-[Tracer]: https://github.com/google/traceur-compiler
 
 
 
