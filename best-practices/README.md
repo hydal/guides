@@ -12,7 +12,7 @@ A guide for programming well.
 * [Rails](/best-practices/rails)
 * [Bundler](/best-practices/bundler)
 * [Testing](/best-practices/testing)
-* [Postgre](/best-practices/postgres)
+* [Postgres](/best-practices/postgres)
 
 
 
